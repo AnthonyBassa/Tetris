@@ -5,8 +5,12 @@ Tetris with Slick2D.
 Java 17 or greater.
 
 # How to
-Arrow up : rotate
+Arrow up : rotate 
+
 Arrow Left : move left
+
 Arrow Right : move right
+
 Spacebar : Drop
+
 p : Pause/resume
